@@ -1,0 +1,9 @@
+.title::after {
+    content: " - Pseudo-Element Example";
+    color: red;
+}
+
+.content::first-letter {
+    font-size: 2em;
+    color: blue;
+}

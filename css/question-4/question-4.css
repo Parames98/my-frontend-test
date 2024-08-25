@@ -1,0 +1,13 @@
+:root {
+    --primary-color: purple;
+    --padding: 20px;
+    --border-radius: 10px;
+}
+
+.box {
+    background-color: var(--primary-color);
+    padding: var(--padding);
+    border-radius: var(--border-radius);
+    color: white;
+    text-align: center;
+}
